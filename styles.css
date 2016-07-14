@@ -1,0 +1,42 @@
+body {
+background-color: chartreuse;
+color: red;
+}
+
+
+img{
+    width: 300px;
+}
+
+h1{
+  font-size: 30px;
+}
+
+h1{
+  color: salmon;
+}
+
+h4{
+  color: #00FFFF;
+}
+
+.redgrass{
+  width: 400px;
+}
+
+.redbamboo{
+   width: 350px;
+}
+
+h2{
+  color: orange;
+}
+
+.pizza{
+  width: 300px;
+}
+
+body {
+  background-image:  url("images/bg.jpg");
+  font-family: 'Lora', serif;
+}
